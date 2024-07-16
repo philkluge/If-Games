@@ -14,7 +14,7 @@
 -Added error messages when administrator privileges are required
 -Added support for the Settings.pld file
 
----v.6.5.3.0---
+---If Games v.6.5.3.0---
 -Support of the Polish language
 -Text size changes have been made
 -Changed value in method "Nachrichten_Sender(String Head, String Text)"
