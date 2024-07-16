@@ -1,0 +1,21 @@
+---If Games v.6.5.2.3---
+-Stabilization Update
+-Added error warnings for rare errors
+-Added the ability to update service applications
+
+---If Service v.1.2.0.0---
+-Stabilization Update
+-Fix for the bug that caused the download method to run indefinitely
+-Fix for bug that overwrites If games without code
+
+---If Delete v.1.1.1.0---
+-Stabilization Update
+-Fix for the bug that caused the Delete method to run indefinitely
+-Added error messages when administrator privileges are required
+-Added support for the Settings.pld file
+
+---v.6.5.3.0---
+-Support of the Polish language
+-Text size changes have been made
+-Changed value in method "Nachrichten_Sender(String Head, String Text)"
+-Deactivation of the methods "Get_Acc_Data()" and "Set_Acc_Data()"
