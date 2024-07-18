@@ -2,7 +2,7 @@
 name: Bug report
 about: Create a report to help us improve If Games
 title: ''
-labels: bug, duplicate
+labels: Bug, invalid
 assignees: philkluge
 
 ---
