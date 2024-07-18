@@ -7,15 +7,15 @@ assignees: philkluge
 
 ---
 
-#Is your feature idea related to a problem?
+**Is your feature idea related to a problem?**
 
-**Yes!... Describe the Problem**
+Yes!... Describe the Problem
 
-**What is your idea for a feature?**
+What is your idea for a feature?
 
 
-****Have an idea for a feature?****
+**Have an idea for a feature?**
 
-**Yes!... Tell us what you would like to see**
+Yes!... Tell us what you would like to see
 
-**Your idea for implementing the feature**
+Your idea for implementing the feature
