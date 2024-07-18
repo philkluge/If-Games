@@ -19,3 +19,6 @@
 -Text size changes have been made
 -Changed value in method "Nachrichten_Sender(String Head, String Text)"
 -Deactivation of the methods "Get_Acc_Data()" and "Set_Acc_Data()"
+
+---If Games v.6.5.4.0---
+-Support of Local Acc (Only Beta-tester / Enable by changing the setting.pld )
