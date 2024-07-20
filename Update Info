@@ -36,3 +36,8 @@
 
 ---If Games v.6.5.4.2---
 !Hot Patch for update: v.6.5.4.1!
+
+--If Games v.6.5.5.0---
+-Fixed a bug that occurred when trying to log out while RM.pld was missing
+-Made changes to the Sing Up screen UI
+-Beta openend to anyone for the local account feature (Errors can and do occur)
